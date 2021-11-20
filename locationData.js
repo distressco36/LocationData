@@ -23,7 +23,7 @@ var locationDatabase = {
 
   "Saskatchewan": ['Saskatoon','Regina','Prince Albert','Moose Jaw'],
 
-  "United Stated of America": ['Alabama','Alaska','Arizona','Arkansas','California','Colorado','Connecticut','Delaware','Florida','Georgia','Hawaii','Idaho','Illinois','Indiana','Iowa','Kansas','Kentucky','Louisiana','Maine','Maryland','Massachusetts','Michigan','Minnesota','Mississippi','Missouri','Montana','Nebraska','Nevada','New Hampshire','New Jersey','New Mexico','New York','North Carolina','North Dakota','Ohio','Oklahoma','Oregon','Pennsylvania','Rhode Island','South Carolina','South Dakota','Tennessee','Texas','Utah','Vermont','Virginia','Washington','West Virginia','Wisconsin','Wyoming'],
+  "United States of America": ['Alabama','Alaska','Arizona','Arkansas','California','Colorado','Connecticut','Delaware','Florida','Georgia','Hawaii','Idaho','Illinois','Indiana','Iowa','Kansas','Kentucky','Louisiana','Maine','Maryland','Massachusetts','Michigan','Minnesota','Mississippi','Missouri','Montana','Nebraska','Nevada','New Hampshire','New Jersey','New Mexico','New York','North Carolina','North Dakota','Ohio','Oklahoma','Oregon','Pennsylvania','Rhode Island','South Carolina','South Dakota','Tennessee','Texas','Utah','Vermont','Virginia','Washington','West Virginia','Wisconsin','Wyoming'],
 
   "Alabama": ['Huntsville','Birmingham','Montgomery','Mobile','Tuscaloosa','Hoover','Auburn','Dothan','Decatur','Madison','Florence','Vestavia Hills','Phenix City','Prattville','Gadsden','Alabaster','Northport','Opelika','Enterprise','Daphne','Homewood','Trussville','Bessemer','Athens','Pelham','Fairhope','Mountain Brook','Albertville','Oxford','Anniston','Helena','Foley'],
 
