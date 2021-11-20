@@ -1,6 +1,6 @@
 var locationDatabase = {  "Country": ['Canada','United States of America'],
 
-  "Canada": ['Alberta','British Columbia','Manitoba', 'New Brunswick', 'Newfoundland and Labrador', 'Novs Scotia','Ontario', 'Prince Edward Island', 'Quebec', 'Saskatchewan'],
+  "Canada": ['Alberta','British Columbia','Manitoba', 'New Brunswick', 'Newfoundland and Labrador', 'Nova Scotia','Ontario', 'Prince Edward Island', 'Quebec', 'Saskatchewan'],
 
   "Alberta": ['Calgary','Edmonton','Red Deer','Lethbridge','St. Albert','Medicine Hat','Grande Prairie','Airdrie','Spruce Grove','Leduc','Fort Saskatchewan'],
 
