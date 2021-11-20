@@ -1,4 +1,4 @@
-var locationDatabasev1 ={  "Country": ['Canada','United States of America'],
+var locationDatabase = {  "Country": ['Canada','United States of America'],
 
   "Canada": ['Alberta','British Columbia','Manitoba', 'New Brunswick', 'Newfoundland and Labrador', 'Novs Scotia','Ontario', 'Prince Edward Island', 'Quebec', 'Saskatchewan'],
 
